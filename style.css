@@ -1,0 +1,65 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.maghrib {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.bungkus {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+.nama {
+  color: #666;
+}
+
+section {
+  margin: 20px 0;
+}
+
+.isi {
+  background-color: #007BFF;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  margin-top: 5px;
+  
+}
+
+.buka {
+  display: none;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+.maghrib .buka {
+  background-color: #1e1e1e;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 15px;
+}
+
+img {
+    align-items: center;
+}
+
+.anjay {
+  background-color: #007BFF;
+  color: #f9f9f9;
+}
